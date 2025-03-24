@@ -1,5 +1,5 @@
-# sheet-2
-Solved code problems of sheet#2(Loops)
+# Sheet-2
+Solved code problems of Sheet#2(Loops)
 
 ## Details:
 ### Course Code: CCE-2310
